@@ -1,4 +1,4 @@
-body, h1 {
+html, body, h1 {
     margin: 0;
     padding: 0;
 }
@@ -8,7 +8,7 @@ html, body {
 }
 body {
     overflow: hidden;
-    font-size: .25rem;
+    font-family: "Microsoft YaHei";
     color: #fff;
     background-color: #159957;
     background-image: -webkit-linear-gradient(30deg, #155799, #159957);
@@ -17,5 +17,6 @@ body {
 }
 .purpose {
     padding: 10% 0 0 10%;
-    font-size: 2rem;
+    font-size: 1rem;
+    line-height: 2rem;
 }
