@@ -1,1 +1,1 @@
-[:trollface: dmyaszs.github.io](dmyaszs.github.io)
+[:trollface: dmyaszs.github.io](https://dmyaszs.github.io/#/)
