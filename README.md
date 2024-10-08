@@ -1,3 +1,1 @@
-# jianqua.github.io
-:trollface:
-
+[:trollface: dmyaszs.github.io](dmyaszs.github.io)
